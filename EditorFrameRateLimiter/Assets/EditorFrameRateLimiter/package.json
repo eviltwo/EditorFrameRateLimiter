@@ -1,0 +1,19 @@
+{
+    "name": "com.eviltwo.editor-framerate-limiter",
+    "displayName": "Editor Frame Rate Limiter",
+    "version": "1.0.0",             
+    "unity": "2022.3",
+    "description": "Limits the frame rate when playing in the Unity Editor.",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+        "FrameRate",
+        "Limit"
+    ],
+
+    "dependencies": {
+    }
+}
