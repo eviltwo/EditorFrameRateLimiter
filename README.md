@@ -1,5 +1,9 @@
 # EditorFrameRateLimiter
- Limits the frame rate when playing in the Unity Editor.
+Limits the frame rate when playing in the Unity Editor.
+
+![FrameRate](https://github.com/eviltwo/EditorFrameRateLimiter/assets/7721151/0c8d0f5f-b0fe-4e8c-8362-bb7d0ba95e31)
+
+![EditorFrameRateLimiterPreferences](https://github.com/eviltwo/EditorFrameRateLimiter/assets/7721151/d42821e0-1fa4-4b4f-b3e2-a75fd5c3d06b)
 
 # Install with UPM
 ```
